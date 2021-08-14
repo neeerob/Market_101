@@ -115,11 +115,11 @@
     <Compile Include="Main_Page.Designer.cs">
       <DependentUpon>Main_Page.cs</DependentUpon>
     </Compile>
-    <Compile Include="Manage_Employees.cs">
+    <Compile Include="product_Management.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Manage_Employees.Designer.cs">
-      <DependentUpon>Manage_Employees.cs</DependentUpon>
+    <Compile Include="product_Management.Designer.cs">
+      <DependentUpon>product_Management.cs</DependentUpon>
     </Compile>
     <Compile Include="profilePage_Employee.cs">
       <SubType>Form</SubType>
@@ -180,8 +180,8 @@
     <EmbeddedResource Include="Main_Page.resx">
       <DependentUpon>Main_Page.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Manage_Employees.resx">
-      <DependentUpon>Manage_Employees.cs</DependentUpon>
+    <EmbeddedResource Include="product_Management.resx">
+      <DependentUpon>product_Management.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="profilePage_Employee.resx">
       <DependentUpon>profilePage_Employee.cs</DependentUpon>

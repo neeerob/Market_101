@@ -421,6 +421,7 @@ namespace MMS
             this.button3.TabIndex = 64;
             this.button3.Text = "Manage Product Data";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Admin_ProfilePage
             // 

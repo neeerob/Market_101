@@ -89,13 +89,13 @@ namespace MMS
                         r_notActive.Checked = false;
                     }
 
-                    if (dt.Rows[0]["IsManagerOfAShop"].ToString() == "YES")
+                    if (dt.Rows[0]["IsManagerOfAShop"].ToString() == "NO")
                     {
-                        radio_Yes.Checked = true;
+                        radioNo.Checked = true;
                     }
                     else
                     {
-                        radioNo.Checked = true;
+                        radio_Yes.Checked = true;
                     }
 
                     DCon.Close();
@@ -168,11 +168,11 @@ namespace MMS
             if (txt_EmpID.Text != "")
             {
                 string isManager = "";
-                if(radio_Yes.Checked)
+                if(radio_Yes.Checked == true)
                 {
-                    isManager = "Yes";
+                    isManager = "YES";
                 }
-                else
+                if(radioNo.Checked == true)
                 {
                     isManager = "NO";
                 }
@@ -228,7 +228,7 @@ namespace MMS
             {
                 SqlConnection DCon = new SqlConnection(@"Data Source=DESKTOP-JB55370;Initial Catalog=MMS;Integrated Security=True");
                 DCon.Open();
-                string query = "select * from DB_Employee where EmpID = '" + txt_search.Text + "'";
+                string query = "select * from DB_Employee where EmpName like '%" + txt_search.Text + "%'";
                 SqlCommand cmd = new SqlCommand(query, DCon);
                 cmd.ExecuteNonQuery();
                 SqlDataAdapter adp = new SqlDataAdapter(cmd);
@@ -236,7 +236,7 @@ namespace MMS
                 adp.Fill(ds);
                 DataTable dt = ds.Tables[0];
 
-                if (dt.Rows.Count == 1)
+                if (dt.Rows.Count >= 1)
                 {
                     MessageBox.Show("Employee Found.");
                     //txt_shopID.Text = dt.Rows[0]["shopID"].ToString();

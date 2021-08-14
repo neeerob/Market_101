@@ -247,11 +247,11 @@ namespace MMS
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Cambria", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(550, 84);
+            this.label5.Location = new System.Drawing.Point(448, 86);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(232, 32);
+            this.label5.Size = new System.Drawing.Size(334, 32);
             this.label5.TabIndex = 39;
-            this.label5.Text = "Search by shop ID";
+            this.label5.Text = "Search by Employee Name";
             // 
             // txt_search
             // 
@@ -589,7 +589,7 @@ namespace MMS
             this.Controls.Add(this.panel1);
             this.Name = "employee_Management";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "employee_Management";
+            this.Text = "Employee Management";
             this.Load += new System.EventHandler(this.employee_Management_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);

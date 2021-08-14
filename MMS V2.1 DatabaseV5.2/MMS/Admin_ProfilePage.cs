@@ -195,5 +195,12 @@ namespace MMS
             mngEmployee.Show();
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            product_Management productManagement = new product_Management();
+            productManagement.Show();
+            this.Hide();
+        }
     }
 }

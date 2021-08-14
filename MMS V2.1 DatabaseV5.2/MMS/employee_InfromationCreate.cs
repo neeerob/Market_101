@@ -73,7 +73,7 @@ namespace MMS
             }
             else if (rad_No.Checked)
             {
-                IsManagerOfAShop = "No";
+                IsManagerOfAShop = "NO";
                 bIsMng = true;
             }
             else

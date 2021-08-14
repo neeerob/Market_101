@@ -38,6 +38,11 @@ namespace MMS
             this.label8 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.shopid = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EmpAssignedShop = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EmpSalary = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EmpPhoneNumber = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IDshop = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.txt_search = new System.Windows.Forms.TextBox();
             this.btn_searchShop = new System.Windows.Forms.Button();
@@ -56,11 +61,6 @@ namespace MMS
             this.btn_deleteEmpAccount = new System.Windows.Forms.Button();
             this.btn_updateInfo = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.shopid = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EmpAssignedShop = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EmpSalary = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EmpPhoneNumber = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.IDshop = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -148,9 +148,9 @@ namespace MMS
             this.label2.Font = new System.Drawing.Font("Cambria", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(6, 182);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(922, 32);
+            this.label2.Size = new System.Drawing.Size(908, 32);
             this.label2.TabIndex = 40;
-            this.label2.Text = "You have Manager privilage. You can create aor remove product from shop.";
+            this.label2.Text = "You have Manager privilage. You can create or remove product from shop.";
             // 
             // dataGridView1
             // 
@@ -170,19 +170,60 @@ namespace MMS
             this.dataGridView1.TabIndex = 116;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
+            // shopid
+            // 
+            this.shopid.DataPropertyName = "productID";
+            this.shopid.HeaderText = "Product ID";
+            this.shopid.MinimumWidth = 10;
+            this.shopid.Name = "shopid";
+            this.shopid.Width = 200;
+            // 
+            // EmpAssignedShop
+            // 
+            this.EmpAssignedShop.DataPropertyName = "productName";
+            this.EmpAssignedShop.HeaderText = "Product Name";
+            this.EmpAssignedShop.MinimumWidth = 10;
+            this.EmpAssignedShop.Name = "EmpAssignedShop";
+            this.EmpAssignedShop.Width = 200;
+            // 
+            // EmpSalary
+            // 
+            this.EmpSalary.DataPropertyName = "productQuantity";
+            this.EmpSalary.HeaderText = "Product Availability";
+            this.EmpSalary.MinimumWidth = 10;
+            this.EmpSalary.Name = "EmpSalary";
+            this.EmpSalary.Width = 200;
+            // 
+            // EmpPhoneNumber
+            // 
+            this.EmpPhoneNumber.DataPropertyName = "productPrice";
+            this.EmpPhoneNumber.HeaderText = "Product Price";
+            this.EmpPhoneNumber.MinimumWidth = 10;
+            this.EmpPhoneNumber.Name = "EmpPhoneNumber";
+            this.EmpPhoneNumber.Width = 200;
+            // 
+            // IDshop
+            // 
+            this.IDshop.DataPropertyName = "shopID";
+            this.IDshop.HeaderText = "Shop ID";
+            this.IDshop.MinimumWidth = 10;
+            this.IDshop.Name = "IDshop";
+            this.IDshop.Visible = false;
+            this.IDshop.Width = 200;
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Cambria", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 512);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(232, 32);
+            this.label1.Size = new System.Drawing.Size(314, 32);
             this.label1.TabIndex = 43;
-            this.label1.Text = "Search by shop ID";
+            this.label1.Text = "Search by Product Name";
             // 
             // txt_search
             // 
-            this.txt_search.Location = new System.Drawing.Point(250, 515);
+            this.txt_search.Location = new System.Drawing.Point(332, 515);
             this.txt_search.Name = "txt_search";
             this.txt_search.Size = new System.Drawing.Size(173, 31);
             this.txt_search.TabIndex = 45;
@@ -193,12 +234,13 @@ namespace MMS
             this.btn_searchShop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_searchShop.Font = new System.Drawing.Font("Bahnschrift", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_searchShop.ForeColor = System.Drawing.Color.Black;
-            this.btn_searchShop.Location = new System.Drawing.Point(429, 512);
+            this.btn_searchShop.Location = new System.Drawing.Point(511, 512);
             this.btn_searchShop.Name = "btn_searchShop";
             this.btn_searchShop.Size = new System.Drawing.Size(101, 40);
             this.btn_searchShop.TabIndex = 44;
             this.btn_searchShop.Text = "Search";
             this.btn_searchShop.UseVisualStyleBackColor = false;
+            this.btn_searchShop.Click += new System.EventHandler(this.btn_searchShop_Click_1);
             // 
             // panel3
             // 
@@ -341,47 +383,6 @@ namespace MMS
             this.button1.Text = "Add Product";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // shopid
-            // 
-            this.shopid.DataPropertyName = "productID";
-            this.shopid.HeaderText = "Product ID";
-            this.shopid.MinimumWidth = 10;
-            this.shopid.Name = "shopid";
-            this.shopid.Width = 200;
-            // 
-            // EmpAssignedShop
-            // 
-            this.EmpAssignedShop.DataPropertyName = "productName";
-            this.EmpAssignedShop.HeaderText = "Product Name";
-            this.EmpAssignedShop.MinimumWidth = 10;
-            this.EmpAssignedShop.Name = "EmpAssignedShop";
-            this.EmpAssignedShop.Width = 200;
-            // 
-            // EmpSalary
-            // 
-            this.EmpSalary.DataPropertyName = "productQuantity";
-            this.EmpSalary.HeaderText = "Product Availability";
-            this.EmpSalary.MinimumWidth = 10;
-            this.EmpSalary.Name = "EmpSalary";
-            this.EmpSalary.Width = 200;
-            // 
-            // EmpPhoneNumber
-            // 
-            this.EmpPhoneNumber.DataPropertyName = "productPrice";
-            this.EmpPhoneNumber.HeaderText = "Product Price";
-            this.EmpPhoneNumber.MinimumWidth = 10;
-            this.EmpPhoneNumber.Name = "EmpPhoneNumber";
-            this.EmpPhoneNumber.Width = 200;
-            // 
-            // IDshop
-            // 
-            this.IDshop.DataPropertyName = "shopID";
-            this.IDshop.HeaderText = "Shop ID";
-            this.IDshop.MinimumWidth = 10;
-            this.IDshop.Name = "IDshop";
-            this.IDshop.Visible = false;
-            this.IDshop.Width = 200;
             // 
             // profilePage_Shop
             // 
