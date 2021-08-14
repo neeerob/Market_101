@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A1B4BEC-B2FA-45AC-8F68-0564E54F20EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MMS</RootNamespace>
+    <AssemblyName>MMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="activate_Emp_AccountLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="activate_Emp_AccountLogin.Designer.cs">
+      <DependentUpon>activate_Emp_AccountLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword_Admin.Designer.cs">
+      <DependentUpon>ChangePassword_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword_Employee.Designer.cs">
+      <DependentUpon>ChangePassword_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_ProfilePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_ProfilePage.Designer.cs">
+      <DependentUpon>Admin_ProfilePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_Management.Designer.cs">
+      <DependentUpon>employee_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Regestration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Regestration.Designer.cs">
+      <DependentUpon>Employee_Regestration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_Admin.Designer.cs">
+      <DependentUpon>login_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="create_Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create_Shop.Designer.cs">
+      <DependentUpon>create_Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee_InfromationCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee_InfromationCreate.Designer.cs">
+      <DependentUpon>employee_InfromationCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_Employee.Designer.cs">
+      <DependentUpon>login_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Page.Designer.cs">
+      <DependentUpon>Main_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Employees.Designer.cs">
+      <DependentUpon>Manage_Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profilePage_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profilePage_Employee.Designer.cs">
+      <DependentUpon>profilePage_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profilePage_Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profilePage_Shop.Designer.cs">
+      <DependentUpon>profilePage_Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="login_Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_Shop.Designer.cs">
+      <DependentUpon>login_Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shop_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shop_Management.Designer.cs">
+      <DependentUpon>shop_Management.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="activate_Emp_AccountLogin.resx">
+      <DependentUpon>activate_Emp_AccountLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword_Admin.resx">
+      <DependentUpon>ChangePassword_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_ProfilePage.resx">
+      <DependentUpon>Admin_ProfilePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword_Employee.resx">
+      <DependentUpon>ChangePassword_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_Management.resx">
+      <DependentUpon>employee_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Regestration.resx">
+      <DependentUpon>Employee_Regestration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_Admin.resx">
+      <DependentUpon>login_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create_Shop.resx">
+      <DependentUpon>create_Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee_InfromationCreate.resx">
+      <DependentUpon>employee_InfromationCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_Employee.resx">
+      <DependentUpon>login_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Page.resx">
+      <DependentUpon>Main_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Employees.resx">
+      <DependentUpon>Manage_Employees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profilePage_Employee.resx">
+      <DependentUpon>profilePage_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profilePage_Shop.resx">
+      <DependentUpon>profilePage_Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="login_Shop.resx">
+      <DependentUpon>login_Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shop_Management.resx">
+      <DependentUpon>shop_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_cover_photo_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f_c_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pro_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emp.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

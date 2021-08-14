@@ -1,0 +1,354 @@
+C:\Users\Ne\Desktop\C#\MMS\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V1.8\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.0\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.0\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.1\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.3\MMS\obj\Debug\MMS.adminChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.adminChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.4\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.adminChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.5\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.adminChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV1.6\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.adminChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.AdminProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Admin_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.EmployeeAccountCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Employee_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.Shop_Login.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.0\MMS\obj\Debug\MMS.activate_Account.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.activate_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.admin_ChangePassword.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.1\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV2.2\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.1\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.2\MMS\obj\Debug\MMS.employee_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.employee_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV3.3\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.employee_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.1\MMS\obj\Debug\MMS.profilePage_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.employee_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.profilePage_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV4.2\MMS\obj\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\bin\Debug\MMS.exe.config
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\bin\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\bin\Debug\MMS.pdb
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.activate_Emp_AccountLogin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.ChangePassword_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.Admin_ProfilePage.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.ChangePassword_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.employee_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.Employee_Regestration.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.login_Admin.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.create_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.employee_InfromationCreate.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.login_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.Main_Page.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.Manage_Employees.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.profilePage_Employee.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.profilePage_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.login_Shop.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.shop_Management.resources
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.csproj.GenerateResource.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.csproj.CoreCompileInputs.cache
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.exe
+C:\Users\Ne\Desktop\C#\MMS V2.1 DatabaseV5.1\MMS\obj\Debug\MMS.pdb
