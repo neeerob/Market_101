@@ -178,6 +178,8 @@ namespace MMS
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.shopid,
@@ -188,6 +190,7 @@ namespace MMS
             this.EmpEmail});
             this.dataGridView1.Location = new System.Drawing.Point(12, 195);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 82;
             this.dataGridView1.RowTemplate.Height = 33;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
@@ -201,6 +204,7 @@ namespace MMS
             this.shopid.HeaderText = "ID";
             this.shopid.MinimumWidth = 10;
             this.shopid.Name = "shopid";
+            this.shopid.ReadOnly = true;
             this.shopid.Width = 200;
             // 
             // shopName
@@ -209,6 +213,7 @@ namespace MMS
             this.shopName.HeaderText = "Name";
             this.shopName.MinimumWidth = 10;
             this.shopName.Name = "shopName";
+            this.shopName.ReadOnly = true;
             this.shopName.Width = 200;
             // 
             // EmpAssignedShop
@@ -217,6 +222,7 @@ namespace MMS
             this.EmpAssignedShop.HeaderText = "Assigned Shop";
             this.EmpAssignedShop.MinimumWidth = 10;
             this.EmpAssignedShop.Name = "EmpAssignedShop";
+            this.EmpAssignedShop.ReadOnly = true;
             this.EmpAssignedShop.Width = 200;
             // 
             // EmpSalary
@@ -225,6 +231,7 @@ namespace MMS
             this.EmpSalary.HeaderText = "Salary";
             this.EmpSalary.MinimumWidth = 10;
             this.EmpSalary.Name = "EmpSalary";
+            this.EmpSalary.ReadOnly = true;
             this.EmpSalary.Width = 200;
             // 
             // EmpPhoneNumber
@@ -233,6 +240,7 @@ namespace MMS
             this.EmpPhoneNumber.HeaderText = "Phone Number";
             this.EmpPhoneNumber.MinimumWidth = 10;
             this.EmpPhoneNumber.Name = "EmpPhoneNumber";
+            this.EmpPhoneNumber.ReadOnly = true;
             this.EmpPhoneNumber.Width = 200;
             // 
             // EmpEmail
@@ -241,6 +249,7 @@ namespace MMS
             this.EmpEmail.HeaderText = "Email";
             this.EmpEmail.MinimumWidth = 10;
             this.EmpEmail.Name = "EmpEmail";
+            this.EmpEmail.ReadOnly = true;
             this.EmpEmail.Width = 200;
             // 
             // label5
