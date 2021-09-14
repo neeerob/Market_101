@@ -15,9 +15,9 @@
 - Graphical user interface - I use .Net framework 4.7.2 Windows form Application Templet for UI.
 - Database - We will use Microsoft SQL Database 2019 for data management.
 
-## Screenshot:
+## Screenshots:
 
-[Screenshot](https://github.com/neeerob/Market_Management_Software_C-Sharp/tree/main/Screenshot "link title") - All screenshot are here. 
+[Screenshot](https://github.com/neeerob/Market_Management_Software_C-Sharp/tree/main/Screenshot "link title") - All screenshots are here. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
