@@ -39,3 +39,7 @@ Please make sure to update tests as appropriate.
 ## Profile and Management Page
 
 <img width="400" alt="Screenshot 2020-09-12 at 5 53 11 PM" src="https://github.com/neeerob/Market_Management_Software_C-Sharp/blob/main/Screenshot/MMS.006.PNG">      <img width="400" alt="Screenshot 2020-09-12 at 5 53 11 PM" src="https://github.com/neeerob/Market_Management_Software_C-Sharp/blob/main/Screenshot/MMS.010.PNG"> 
+
+## Other Screenshots:
+
+[Screenshot](https://github.com/neeerob/Market_Management_Software_C-Sharp/tree/main/Screenshot "link title") - Other screenshots are here. 
